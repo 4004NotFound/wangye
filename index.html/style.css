@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    width: 900;
+    height: 254px;
+    margin: 0 auto;
+}
+
+.nav img {
+    width: 100%;
+}
+
+.taitou {
+    font-size: 22px;
+    width: 900px;
+    margin: 0 auto 50px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.p1 {
+    text-indent: 2em;
+}
+
+.p3 {
+    text-align: right;
+    margin-top: 30px;
+}
+
+.q {
+    width: 800px;
+    margin: 0 auto;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+td {
+    padding: 10px 50px 20px 0;
+}
